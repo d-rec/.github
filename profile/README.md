@@ -20,3 +20,6 @@ Leveraging technology and innovation, we have built a robust platform that strea
 
 We believe in the power of partnerships. Collaborating with energy sector stakeholders, governments, NGOs, corporations, and financial institutions, we aim to create a cohesive ecosystem that  accelerates the adoption of DRE, mobilizes resources and achieves a broader impact.
 
+## Feature readiness overview
+
+- [View or Download](/profile/D-REC%20Platform%20-%20Features%20MVP%20Stage%20-%20Features.pdf)
