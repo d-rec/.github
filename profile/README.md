@@ -22,6 +22,6 @@ We believe in the power of partnerships. Collaborating with energy sector stakeh
 
 ### Platform Features Overview
 
-The following document contains the list of features that are currently supported by the D-REC platform
+This document outlines the features currently supported by the D-REC platform.
 
-- [View or Download](./d-rec-platform-features-mvp-stage.pdf)
+- [Feature List](https://docs.google.com/spreadsheets/d/15US3cYeohawvJXdvhWKtVj0JCyHb_LdUDYOPn4ngg4Q/edit?usp=sharing)
