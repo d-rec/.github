@@ -14,12 +14,14 @@ The D-REC Organization is more than just a facilitator of RECs. Through D-RECs, 
 
 ### Our approach
 
-Leveraging technology and innovation, we have built a robust platform that streamlines the aggregation and verification process of DRE projects, enabling their certification by relevant bodies. 
+Leveraging technology and innovation, we have built a robust platform that streamlines the aggregation and verification process of DRE projects, enabling their certification by relevant bodies.
 
 ### Collaboration and partnerships
 
 We believe in the power of partnerships. Collaborating with energy sector stakeholders, governments, NGOs, corporations, and financial institutions, we aim to create a cohesive ecosystem that  accelerates the adoption of DRE, mobilizes resources and achieves a broader impact.
 
-## Feature readiness overview
+### Platform Features Overview
 
-- [View or Download](/profile/D-REC%20Platform%20-%20Features%20MVP%20Stage%20-%20Features.pdf)
+The following document contains the list of features that are currently supported by the D-REC platform
+
+- [View or Download](./d-rec-platform-features-mvp-stage.pdf)
